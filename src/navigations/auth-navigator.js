@@ -8,7 +8,6 @@ import StoreInfo from '../screens/auth/add-store/store-info/store-info';
 import StoreImage from '../screens/auth/add-store/store-images/store-images';
 import BankGstDetail from '../screens/auth/add-store/bank-gst-detail/bank-gst-detail';
 import OnBoarding from '../screens/auth/on-boarding/on-boarding';
-import {GoBack} from '../components/header-components';
 import {COLORS} from '../constants/colors';
 import {FONT_FAMILY} from '../constants/font-family';
 import SignIn from '../screens/auth/sign-in/sign-in';

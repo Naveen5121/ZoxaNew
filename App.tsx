@@ -1,4 +1,3 @@
-
 import React from 'react';
 import EntryPoint from './entry-point';
 
